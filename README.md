@@ -83,8 +83,8 @@ SAVEETHA ENGINEERING COLLEGE
 ``````
 
 ## OUTPUT: 7(i):
-![Alt text](media1.png)
-![Alt text](<media 2.png>)
+![media1](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/be9817c5-0772-4356-b227-493cbb86c97f)
+![medio1 mini](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/cd6440a2-d0bd-4baa-bf81-bc7f92b2e43f)
 
 
 ## Ex-07(ii)-CSS
@@ -152,8 +152,9 @@ End the HTML document by closing all open tags.
   </html>
 ``````
 ## OUTPUT: 7(ii):
-![Alt text](<media 2.png>)
-![Alt text](<media 2 mini.png>)
+![media 2](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/3c7bfd27-0a81-453b-ae4c-bf1f99948baf)
+![media 2 mini](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/313250e5-8f62-497a-8e7a-e6ebad312ed2)
+
 
 ## Ex-07(iii)-CSS Orientation-based Media Query
 
@@ -250,8 +251,8 @@ Open your HTML file in a web browser and change the orientation of your device t
   </html>
 ``````
 ## OUTPUT:7(iii):
-![Alt text](media3.png)
-![Alt text](<media 3mini.png>)
+![media3](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/a8e790a4-b1a9-48f3-8721-d80e95a2ed00)
+![media 3mini](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/c8c4b390-2b2e-49c4-9bcd-b35f9bef5791)
 
 ## Ex-07(iv)-CSS Responsive Typography
 
@@ -334,8 +335,8 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </htm
 ``````
 ## OUTPUT:7(iv):
-![Alt text](<media 4.png>)
-![Alt text](<media 4 mini.png>)
+![media 4](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/12fb9e13-d753-41c5-91d6-334a8ede35ba)
+![media 4 mini](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/c0c37458-e0eb-462a-a485-637451087a24)
 
 ## AIM:
 
@@ -416,8 +417,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
 ``````
 ## OUTPUT:7(v):
-![Alt text](<media 5.png>)
-![Alt text](<media 5 mini.png>)
+![media 5](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/9d693b0e-004b-46c2-b154-2e0987a7e412)
+![media 5 mini](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/fcb6d155-ee93-4e1b-b0b7-4b55625d754b)
+
 
 ## Ex-07(vi)-Dark Mode Implementation
 
@@ -490,5 +492,5 @@ Remember to test your website in both light and dark modes to ensure the colors 
   </html>
 ``````
   ## OUTPUT:7(vi):
-![Alt text](<media 6.png>)
-![Alt text](<media 6 mini.png>)
+![media 6](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/633ae675-a569-4716-b7a1-f8a7bca50b41)
+![media 6 mini](https://github.com/vinodhini-17/ODD2023-WT-Ex-07-CSS/assets/145742741/c5ed50f2-e17d-41e9-a1a4-9a63fc10a8a3)
